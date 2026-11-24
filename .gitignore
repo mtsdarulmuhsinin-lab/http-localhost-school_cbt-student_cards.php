@@ -1,0 +1,6 @@
+/config/database.php
+/cbt.sqlite
+/cbt.sqlite-journal
+/uploads/*
+!/uploads/.gitkeep
+/.env
